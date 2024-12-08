@@ -52,8 +52,6 @@ If the screenshots are not in English, provide translations for titles, headings
 
 <img class="screenshot" alt="Translations" src="./Screenshots/Slide13.png"/></a>
 
-<img class="screenshot" alt="Translations" src="./Screenshots/Slide13.png"/></a>
-
 <img class="screenshot" alt="Translations" src="./Screenshots/Slide14.png"/></a>
 
 <img class="screenshot" alt="Translations" src="./Screenshots/Slide15.png"/></a>
